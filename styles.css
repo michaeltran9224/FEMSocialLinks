@@ -98,3 +98,18 @@ img[src="assets/images/avatar-jessica.jpeg"]{
 
 }
 
+@media (max-width: 375px){
+    .card{
+        width: 350px;
+        height: 590px;
+    }
+
+    .link{
+        width: 280px;
+    }
+
+    img[src="assets/images/avatar-jessica.jpeg"]{
+        width: 25%;
+    }
+
+}
